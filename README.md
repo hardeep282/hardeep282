@@ -4,9 +4,9 @@
 
 I turn business data into actionable insights, with a focus on sales, commercial performance, customer analytics and operational decision-making.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeep282&label=Profile views&color=0e75b6&style=flat" alt="hardeep282" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardeep282" alt="hardeep282" /></a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=hardeep282&label=Profile%20views&color=0e75b6&style=flat" alt="hardeep282" />
+</p>
 
 - 🔭 I'm currently working on **Vendor Analytics Project**
 
@@ -122,9 +122,76 @@ Power Query&nbsp;&nbsp;|&nbsp;&nbsp;DAX
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardeep282&show_icons=true&locale=en&layout=compact" alt="hardeep282" /></p>
+## 📊 Core Analytics Capabilities
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardeep282&show_icons=true&locale=en" alt="hardeep282" /></p>
+- 📈 **Sales & Commercial Analytics** — Revenue analysis, sales performance, KPI tracking and business performance analysis
+- 👥 **Customer Analytics** — Customer segmentation, RFM analysis, purchasing behaviour and retention insights
+- 🛒 **Retail Analytics** — Product performance, basket analysis, Pareto analysis and revenue contribution
+- 📦 **Inventory & Operations Analytics** — Stock analysis, vendor performance, inventory turnover and operational KPIs
+- 🔮 **Predictive Analytics** — Regression, clustering, time-series analysis and forecasting
+- 🧹 **Data Preparation & EDA** — Data cleaning, transformation, exploratory data analysis and feature engineering
+- 📊 **Business Intelligence** — Interactive dashboards, reporting, data visualisation and decision-support analysis
+
+## 🚀 Featured Projects
+
+### 🚗 Automobile Sales & Logistics Analytics
+**Python | Pandas | NumPy | Matplotlib | Seaborn | Business Analytics**
+
+Analysed automobile sales and logistics data to identify sales trends, product performance, regional patterns and operational opportunities.
+
+**Key analysis:** Sales trends · Product performance · Regional analysis · Logistics performance · KPI analysis
+
+**Business value:** Identified patterns in sales and operational performance to support data-driven commercial decision-making.
+
+🔗 [View Project](https://github.com/hardeep282/Automobile-Sales-Logistics)
+
+
+
+### 📦 Commercial Analytics — Vendor & Stock Analysis
+**Python | Pandas | SQL | Power BI | Commercial Analytics**
+
+Analysed vendor, purchasing and inventory data to evaluate supplier performance, stock efficiency, profitability and commercial KPIs.
+
+**Key analysis:** Vendor performance · Gross profit · Stock turnover · Inventory efficiency · Purchasing patterns · KPI analysis
+
+**Business value:** Identified high- and low-performing vendors and examined the relationship between inventory levels, stock turnover and profitability to support better commercial decisions.
+
+🔗 [View Project](https://github.com/hardeep282/Commercial-Analytics---Beverage-Distribution-Project---Vendor-and-Stock-Analysis)
+
+
+
+## 💡 What I Bring
+
+- **Business-focused analysis** — Translate business questions into measurable KPIs and analytical problems.
+- **Data-driven decision making** — Use SQL, Python, Excel and Power BI to turn raw data into actionable insights.
+- **Commercial thinking** — Analyse sales, customer, vendor, inventory and profitability performance.
+- **End-to-end analytics** — Data cleaning → EDA → analysis → visualisation → insights → business recommendations.
+- **Strong analytical foundation** — Statistical analysis, regression, clustering, forecasting and customer segmentation.
+
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hardeep-bamrah-479810234/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:hardeep.bamrah282@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40"/>
+</a>
+</p>
+
+📧 **Email:** hardeep.bamrah282@gmail.com  
+💼 **LinkedIn:** [Hardeep Bamrah](https://www.linkedin.com/in/hardeep-bamrah-479810234/)
+
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+I'm always interested in connecting with professionals, analysts and organisations working with data, business intelligence and commercial analytics.
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardeep282&" alt="hardeep282" /></p>
 
