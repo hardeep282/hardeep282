@@ -4,9 +4,6 @@
 
 I turn business data into actionable insights, with a focus on sales, commercial performance, customer analytics and operational decision-making.
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=hardeep282&label=Profile%20views&color=0e75b6&style=flat" alt="hardeep282" />
-</p>
 
 
 
