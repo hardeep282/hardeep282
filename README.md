@@ -1,6 +1,8 @@
 # Hi 👋, I'm Hardeep Bamrah
 
-### Commercial & Data Analyst | SQL | Python | Power BI | Excel, logistics and customer analytics projects Open to analyst opportunities in the UK
+### Commercial & Data Analyst | SQL | Python | Power BI | Excel
+
+I turn business data into actionable insights, with a focus on sales, commercial performance, customer analytics and operational decision-making.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeep282&label=Profile views&color=0e75b6&style=flat" alt="hardeep282" /> </p>
 
