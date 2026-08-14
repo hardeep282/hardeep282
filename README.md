@@ -192,5 +192,5 @@ Analysed vendor, purchasing and inventory data to evaluate supplier performance,
 I'm always interested in connecting with professionals, analysts and organisations working with data, business intelligence and commercial analytics.
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardeep282&" alt="hardeep282" /></p>
+
 
