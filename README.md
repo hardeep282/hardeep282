@@ -8,15 +8,7 @@ I turn business data into actionable insights, with a focus on sales, commercial
 <img src="https://komarev.com/ghpvc/?username=hardeep282&label=Profile%20views&color=0e75b6&style=flat" alt="hardeep282" />
 </p>
 
-- 🔭 I'm currently working on **Vendor Analytics Project**
 
-- 🌱 I'm currently learning **Analytics Tools and Languages**
-
-- 💬 Ask me about **Data Analytics**
-
-- 📫 How to reach me **hardeep.bamrah282@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/hardeep-bamrah-479810234/](https://www.linkedin.com/in/hardeep-bamrah-479810234/)**
 
 <h3 align="left">🧠 Programming & Analytics</h3>
 
