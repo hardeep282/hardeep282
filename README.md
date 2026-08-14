@@ -169,6 +169,16 @@ Analysed vendor, purchasing and inventory data to evaluate supplier performance,
 - **Strong analytical foundation** — Statistical analysis, regression, clustering, forecasting and customer segmentation.
 
 
+
+## 🔭 Currently Working On
+
+- 🚗 Building and improving business-focused analytics projects using Python, SQL and Power BI.
+- 📊 Developing interactive dashboards and data applications with Power BI and Streamlit.
+- 🧠 Expanding my knowledge of advanced SQL, statistical analysis and predictive analytics.
+- 🚀 Continuously adding new sales, customer, commercial and business intelligence projects to my portfolio.
+
+
+
 ## 🤝 Let's Connect
 
 <p align="left">
